@@ -20,7 +20,6 @@ class Main {
             {
                 System.out.println("The guess number is too low");
                 System.out.println("Don't give up! You can guess correct.\n");
-                
             }
       }
       while( RandomNum != NumGuess);
